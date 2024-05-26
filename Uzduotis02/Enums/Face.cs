@@ -5,6 +5,6 @@
         clubs,
         diamonds,
         hearts,
-        spaces
+        spades
     }
 }
